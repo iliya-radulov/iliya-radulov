@@ -12,7 +12,8 @@
 ██║██║██║  ╚██╔╝  ██╔══██║    ██╔══██╗██╔══██║██║  ██╗██║   ██║██║     ██║   ██║ ╚████╔╝  
 ██║██║██║   ██║   ██║  ██║    ██║  ██║██║  ██║██████╔╝╚██████╔╝███████╗╚██████╔╝   ██║   
 ╚═╝╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝    ╚═╝   
-<p align="center"> <b style="color:#F97316;">25+ years</b> in experimental materials · <b style="color:#60A5FA;">Now</b> automating the lab · <b style="color:#F97316;">Always</b> learning </p>
+<p align="center">
+<b style="color:#F97316;">25+ years</b> in experimental materials · <b style="color:#60A5FA;">Now</b> automating the lab · <b style="color:#F97316;">Always</b> learning </p>
 
 ────────────────────────────────────────────────────────────────────┐
 │      🧪 The Scientist       →           The Builder               │
@@ -25,7 +26,7 @@
 └───────────────────────────────────────────────────────────────────┘
 
 
-🔥 What I Bring to the Table
+##🔥 What I Bring to the Table
 ┌─────────────────────────────────────────────────────────────┐
 │  🧬  DEEP DOMAIN KNOWLEDGE                                  │
 │      → 25+ years of materials intuition                     │
@@ -44,20 +45,36 @@
 │      → Active learning to explore phase space               │    
 └─────────────────────────────────────────────────────────────┘
 
-🛠️ My Arsenal
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /> </p><p align="center"> <i style="color:#60A5FA;">Also fluent in: Fortran (🤫), C, MATLAB, LabVIEW, RS-232, GPIB, and MQTT</i> </p>
+##🛠️ My Arsenal
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+</p>
+<p align="center">
+<i style="color:#60A5FA;">Also fluent in: Fortran (🤫), C, MATLAB, LabVIEW, RS-232, GPIB, and MQTT</i> </p>
 
 🚀 # Projects That Define Me
-Project	The Problem	What I Built	Status
-🧪 AutoSynthesizer	Manual synthesis is slow	Python + robotic arm that synthesizes 96 samples/day	✅ Live in lab
-📡 XRD-AI	Peak identification takes hours	CNN that IDs phases in 2 seconds	🧠 94% accuracy
-🔬 LabOrchestra	Instruments don't talk to each other	MQTT + Python orchestrator for 12+ instruments	📊 Operational
-📈 DataPhoenix	Data buried in Excel/NFS	Automated ETL → PostgreSQL → Dashboards	🔥 Open-sourcing
-🧬 CrystalOracle	"What conditions will work?"	Bayesian optimizer that suggests next experiment	🚧 In progress
+      Project                The Problem                                What I Built          	                Status
+🧪 AutoSynthesizer	Manual synthesis is slow	            Python + robotic arm that synthesizes 96 samples/day	  ✅ Live in lab
+📡 XRD-AI	        Peak identification takes hours	        CNN that IDs phases in 2 seconds	                      🧠 94% accuracy
+🔬 LabOrchestra	    Instruments don't talk to each other	MQTT + Python orchestrator for 12+ instruments	        📊 Operational
+📈 DataPhoenix	    Data buried in Excel/NFS	            Automated ETL → PostgreSQL → Dashboards	                🔥 Open-sourcing
+🧬 CrystalOracle	  "What conditions will work?"	        Bayesian optimizer that suggests next experiment	      🚧 In progress
 
 
 📈 The Numbers (Because Physics)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iliya-radulov&show_icons=true&count_private=true&title_color=F97316&text_color=FFFFFF&icon_color=60A5FA&bg_color=0D1117&hide_border=true" alt="GitHub Stats" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliya-radulov&theme=dark&ring=F97316&fire=F97316&currStreakLabel=60A5FA&background=0D1117&hide_border=true" alt="GitHub Streak" /> </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iliya-radulov&show_icons=true&count_private=true&title_color=F97316&text_color=FFFFFF&icon_color=60A5FA&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iliya-radulov&theme=dark&ring=F97316&fire=F97316&currStreakLabel=60A5FA&background=0D1117&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 📡 Latest From the Lab
@@ -77,13 +94,14 @@ next_milestone: "Closing the loop — synthesis → characterization → ML → 
 
     📡 "From Data to Discovery: A Pipeline for Materials Informatics" — J. Appl. Phys., 2024
 
-    🧪 "25 Years of [Your Field]: A Personal Retrospective" — Invited Review, 2023
+    🧪 "25 Years of Great Expectations: A Personal Retrospective" — Invited Review, 2023
 
 🧠 My Philosophy
 
-    "The gap between experiment and insight is shrinking. The best scientists won't just run experiments — they'll build the systems that run them."
-
-I bridge deep domain expertise with modern tooling — because the future of materials science belongs to those who can talk to both atoms and algorithms.
+    "The gap between experiment and insight is shrinking.
+The best scientists won't just run experiments — they'll build the systems that run them."
+I bridge deep domain expertise with modern tooling — because the future of materials science
+belongs to those who can talk to both atoms and algorithms.
 
 
 🌱 Currently Exploring
@@ -97,14 +115,29 @@ I bridge deep domain expertise with modern tooling — because the future of mat
     Open-sourcing more of my tooling
 
 📫 Connect With Me
-<p align="center"> <a href="https://iliya-radulov.github.io/"> <img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=githubpages&logoColor=black" /> </a> <a href="mailto:your.email@institute.edu"> <img src="https://img.shields.io/badge/Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=black" /> </a> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://scholar.google.com/yourprofile"> <img src="https://img.shields.io/badge/Google_Scholar-F97316?style=for-the-badge&logo=googlescholar&logoColor=black" /> </a> <a href="https://github.com/iliya-radulov"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<p align="center">
+<a href="https://iliya-radulov.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=githubpages&logoColor=black" />
+</a>
+<a href="mailto:your.email@institute.edu">
+<img src="https://img.shields.io/badge/Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://scholar.google.com/yourprofile">
+<img src="https://img.shields.io/badge/Google_Scholar-F97316?style=for-the-badge&logo=googlescholar&logoColor=black" />
+</a>
+<a href="https://github.com/iliya-radulov">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=iliya-radulov&label=Lab+Visitors&color=F97316&style=flat" alt="Profile views" /> &nbsp; <i style="color:#60A5FA;">"The physics stays the same. The tools get better. So do we."</i> &nbsp; <img src="https://img.shields.io/badge/🔥-Phoenix_Mindset-F97316?style=flat" /> </p>
 
-</p><p align="center"> <img src="https://komarev.com/ghpvc/?username=iliya-radulov&label=Lab+Visitors&color=F97316&style=flat" alt="Profile views" /> &nbsp; <i style="color:#60A5FA;">"The physics stays the same. The tools get better. So do we."</i> &nbsp; <img src="https://img.shields.io/badge/🔥-Phoenix_Mindset-F97316?style=flat" /> </p><!-- Hidden Easter Egg: If you're reading this, you're curious. That's the best quality in a scientist. 🧡 -->
-text
+<!-- Hidden Easter Egg: If you're reading this, you're curious. That's the best quality in a scientist. 🧡 -->
 
-
----
 
 
 - ⚡ Fun fact: ... 🤔 I’m looking for help with ...
