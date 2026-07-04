@@ -15,19 +15,19 @@
 <b style="color:#F97316;">25+ years</b> in experimental materials · <b style="color:#60A5FA;">
 Now</b> automating the lab · <b style="color:#F97316;">Always</b> learning</p>
 
-
-─────────────────────────────────────────────────────────────────┐
-│      🧪 The Scientist       →        The Builder               │
-│          Then 🧑‍🔬                        Now 🤖                 │
-│Synthesizing crystals by hand Orchestrating robotic synthesis   │
-│Reading XRD patterns manually ML-powered phase identification   │
-│Excel sheets for data (😱)    Automated data pipelines          │
-│One experiment per week       50+ experiments in parallel       │
-│"It worked!" → "Why?"         "Why?" → "Let's predict next time"│
-└────────────────────────────────────────────────────────────────┘
-
+```
+────────────────────────────────────────────────────────────────────┐
+│      🧪 The Scientist       →           The Builder               │
+│          Then 🧑‍🔬    	                    Now 🤖                  │
+│Synthesizing crystals by hand    Orchestrating robotic synthesis   │
+│Reading XRD patterns manually    ML-powered phase identification   │
+│Excel sheets for data (😱)       Automated data pipelines          │
+│One experiment per week          50+ experiments in parallel       │
+│"It worked!" → "Why?"            "Why?" → "Let's predict next time"│
+└───────────────────────────────────────────────────────────────────┘
+```
 ## 🔥 What I Bring to the Table
-
+```
 ┌──────────────────────────────────────────────┐
 │🧬 DEEP DOMAIN KNOWLEDGE                      │
 │→ 25+ years of materials intuition            │
@@ -45,7 +45,7 @@ Now</b> automating the lab · <b style="color:#F97316;">Always</b> learning</p>
 │→ Bayesian optimization for synthesis         │  
 │→ Active learning to explore phase space      │    
 └──────────────────────────────────────────────┘
-
+```
  
 ## **🛠️ My Arsenal**
 
@@ -98,7 +98,7 @@ I bridge deep domain expertise with modern tooling — because the future of mat
 ## **📫 Connect With Me**
 
 <p align="center">
-[Portfolio](https://iliya-radulov.github.io/) -  [Email](mailto:your.email@institute.edu) -  [LinkedIn](https://linkedin.com/in/yourprofile) -  [Google Scholar](https://scholar.google.com/yourprofile) -  [GitHub](https://github.com/iliya-radulov)
+[Portfolio](https://iliya-radulov.github.io/) -  [Email](mailto:your.email@institute.edu) -  [LinkedIn](https://linkedin.com/in/yourprofile) -  [Google Scholar]([https://scholar.google.com/yourprofile](https://scholar.google.com/citations?hl=en&user=iBSuLZwAAAAJ) -  [GitHub](https://github.com/iliya-radulov)
 </p>
 
 
