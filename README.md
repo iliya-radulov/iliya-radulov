@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://iliya-radulov.github.io/me.jpg" width="140" style="border-radius:50%"/>
+<img src="assets/my_lab.jpg" width="100%" style="border-radius:75%"/>
 
 # Iliya Angelov Radulov
 
