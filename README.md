@@ -15,49 +15,41 @@
 Now</b> automating the lab · <b style="color:#F97316;">Always</b> learning</p>
 ```
 
-────────────────────────────────────────────────────────────────────┐
-│      🧪 The Scientist       →           The Builder               │
-│          Then 🧑‍🔬                           Now 🤖                  │
-│Synthesizing crystals by hand    Orchestrating robotic synthesis   │
-│Reading XRD patterns manually    ML-powered phase identification   │
-│Excel sheets for data (😱)       Automated data pipelines          │
-│One experiment per week          50+ experiments in parallel       │
-│"It worked!" → "Why?"            "Why?" → "Let's predict next time"│
-└───────────────────────────────────────────────────────────────────┘
+─────────────────────────────────────────────────────────────────┐
+│      🧪 The Scientist       →        The Builder               │
+│          Then 🧑‍🔬                        Now 🤖                 │
+│Synthesizing crystals by hand Orchestrating robotic synthesis   │
+│Reading XRD patterns manually ML-powered phase identification   │
+│Excel sheets for data (😱)    Automated data pipelines          │
+│One experiment per week       50+ experiments in parallel       │
+│"It worked!" → "Why?"         "Why?" → "Let's predict next time"│
+└────────────────────────────────────────────────────────────────┘
 
 ## 🔥 What I Bring to the Table
 
-┌────────────────────────────────────────────────┐
-│🧬 DEEP DOMAIN KNOWLEDGE                        │
-│  → 25+ years of materials intuition            │
-│  → You can't Google this kind of experience    │
-├────────────────────────────────────────────────┤
-│🤖 LAB AUTOMATION                               │
-│  → Python-controlled hardware                  │
-│  → Closed-loop experimental workflows          │
-├────────────────────────────────────────────────┤
-│📊 SCIENTIFIC DATA ENGINEERING                  │
-│  → From messy instrument logs to analysis-ready│
-│  → FAIR data principles in practice            │
-├────────────────────────────────────────────────┤
-│🧠 ML-DRIVEN EXPERIMENTATION                    │
-│  → Bayesian optimization for synthesis         │  
-│  → Active learning to explore phase space      │    
-└────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│🧬 DEEP DOMAIN KNOWLEDGE                      │
+│→ 25+ years of materials intuition            │
+│→ You can't Google this kind of experience    │
+├──────────────────────────────────────────────┤
+│🤖 LAB AUTOMATION                             │
+│→ Python-controlled hardware                  │
+│→ Closed-loop experimental workflows          │
+├──────────────────────────────────────────────┤
+│📊 SCIENTIFIC DATA ENGINEERING                │
+│→ From messy instrument logs to analysis-ready│
+│→ FAIR data principles in practice            │
+├──────────────────────────────────────────────┤
+│🧠 ML-DRIVEN EXPERIMENTATION                  │
+│→ Bayesian optimization for synthesis         │  
+│→ Active learning to explore phase space      │    
+└──────────────────────────────────────────────┘
 
  
 ## **🛠️ My Arsenal**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /> </p><p align="center"> <i style="color:#60A5FA;">Also fluent in: Fortran (🤫), C, MATLAB, LabVIEW, RS-232, GPIB, and MQTT</i> </p>
+
 ```
 <i style="color:#60A5FA;">Also fluent in: Fortran (🤫), C, MATLAB, LabVIEW, RS-232, GPIB, and MQTT</i>
 ```
