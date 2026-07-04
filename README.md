@@ -10,10 +10,11 @@
 ██║██║██║  ╚██╔╝  ██╔══██║    ██╔══██╗██╔══██║██║  ██╗██║   ██║██║     ██║   ██║ ╚████╔╝  
 ██║██║██║   ██║   ██║  ██║    ██║  ██║██║  ██║██████╔╝╚██████╔╝███████╗╚██████╔╝   ██║   
 ╚═╝╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝    ╚═╝   
+```
 <p align="center">
 <b style="color:#F97316;">25+ years</b> in experimental materials · <b style="color:#60A5FA;">
 Now</b> automating the lab · <b style="color:#F97316;">Always</b> learning</p>
-```
+
 
 ─────────────────────────────────────────────────────────────────┐
 │      🧪 The Scientist       →        The Builder               │
@@ -50,12 +51,7 @@ Now</b> automating the lab · <b style="color:#F97316;">Always</b> learning</p>
 
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /> </p><p align="center"> <i style="color:#60A5FA;">Also fluent in: Fortran (🤫), C, MATLAB, LabVIEW, RS-232, GPIB, and MQTT</i> </p>
 
-```
-<i style="color:#60A5FA;">Also fluent in: Fortran (🤫), C, MATLAB, LabVIEW, RS-232, GPIB, and MQTT</i>
-```
-
 ## **🚀 Projects That Define Me**
-
 
 | Title | Problem | What I Built | Status |
 | :-- | :-- | :-- | :-- |
