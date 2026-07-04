@@ -27,23 +27,23 @@ Now</b> automating the lab · <b style="color:#F97316;">Always</b> learning</p>
 
 ## 🔥 What I Bring to the Table
 
-┌─────────────────────────────────────────────────────────────┐
-│  🧬  DEEP DOMAIN KNOWLEDGE                                  │
-│      → 25+ years of materials intuition                     │
-│      → You can't Google this kind of experience             │
-├─────────────────────────────────────────────────────────────┤
-│  🤖  LAB AUTOMATION                                         │
-│      → Python-controlled hardware                           │
-│      → Closed-loop experimental workflows                   │
-├─────────────────────────────────────────────────────────────┤
-│  📊  SCIENTIFIC DATA ENGINEERING                            │
-│      → From messy instrument logs to analysis-ready         │
-│      → FAIR data principles in practice                     │
-├─────────────────────────────────────────────────────────────┤
-│  🧠  ML-DRIVEN EXPERIMENTATION                              │
-│      → Bayesian optimization for synthesis                  │  
-│      → Active learning to explore phase space               │    
-└─────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────┐
+│🧬 DEEP DOMAIN KNOWLEDGE                        │
+│  → 25+ years of materials intuition            │
+│  → You can't Google this kind of experience    │
+├────────────────────────────────────────────────┤
+│🤖 LAB AUTOMATION                               │
+│  → Python-controlled hardware                  │
+│  → Closed-loop experimental workflows          │
+├────────────────────────────────────────────────┤
+│📊 SCIENTIFIC DATA ENGINEERING                  │
+│  → From messy instrument logs to analysis-ready│
+│  → FAIR data principles in practice            │
+├────────────────────────────────────────────────┤
+│🧠 ML-DRIVEN EXPERIMENTATION                    │
+│  → Bayesian optimization for synthesis         │  
+│  → Active learning to explore phase space      │    
+└────────────────────────────────────────────────┘
 
  
 ## **🛠️ My Arsenal**
