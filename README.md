@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/my_lab.jpg" width="100%" style="border-radius:75%"/>
+<img src="assets/my_lab.jpg" width="100%" style="border-radius:95%"/>
 
 # Iliya Angelov Radulov
 
@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-iliya--radulov.github.io-blue)](https://iliya-radulov.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iliyaradulov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliyaradulov/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8943--5083-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8943-5083)
-[![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-E9711C)](https://www.scopus.com/authid/detail.uri?authorId=56022860600)
+[![Scopus](https://img.shields.io/badge/Scopus-56022860600-E9711C)](https://www.scopus.com/authid/detail.uri?authorId=56022860600)
 
 </div>
 
