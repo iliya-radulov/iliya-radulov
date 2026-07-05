@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/my_lab.jpg" width="100%" style="border-radius:95%"/>
+<img src="assets/my_lab.jpg" width="100%" style="border-radius:50%"/>
 
 # Iliya Angelov Radulov
 
