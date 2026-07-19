@@ -7,6 +7,7 @@
 ### Materials physicist, currently learning to automate his own old job.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-iliya--radulov.github.io-orange)](https://iliya-radulov.github.io/)
+
 [![Codeberg](https://img.shields.io/badge/Codeberg-iliya--radulov-blue?logo=codeberg)](https://codeberg.org/iliya-radulov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iliyaradulov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliyaradulov/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8943--5083-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8943-5083)
@@ -129,4 +130,6 @@ No robotic arm yet. No papers on it yet. Just a clear direction and a person who
 
 ## 📫 Reach me
 
-[Portfolio](https://iliya-radulov.github.io/) · [LinkedIn](https://www.linkedin.com/in/iliyaradulov/) · [ORCID](https://orcid.org/0000-0001-8943-5083) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56022860600) · iliyaradulov@gmail.com
+[Portfolio](https://iliya-radulov.github.io/) · 
+[Codeberg](https://codeberg.org/iliya-radulov)
+[LinkedIn](https://www.linkedin.com/in/iliyaradulov/) · [ORCID](https://orcid.org/0000-0001-8943-5083) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56022860600) · iliyaradulov@gmail.com
