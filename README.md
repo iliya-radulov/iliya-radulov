@@ -7,8 +7,10 @@
 ### Materials physicist, currently learning to automate his own old job.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-iliya--radulov.github.io-orange)](https://iliya-radulov.github.io/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iliyaradulov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliyaradulov/)
 [![Codeberg](https://img.shields.io/badge/Codeberg-iliya--radulov-blue?logo=codeberg)](https://codeberg.org/iliya-radulov)
+
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8943--5083-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8943-5083)
 [![Scopus](https://img.shields.io/badge/Scopus-56022860600-E9711C)](https://www.scopus.com/authid/detail.uri?authorId=56022860600)
 </div>
