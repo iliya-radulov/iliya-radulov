@@ -97,6 +97,17 @@ Not just talk — some of the actual starting material is already sitting here:
 - **Senior Researcher** — Fraunhofer IWKS, functional materials R&D
 - Research areas: magnetocaloric materials, magnetic/multiferroic oxides, structure–property relationships, lab-to-pilot-scale upscaling
 
+
+## 🛠️ Now: reviving old kits, teaching a new arm
+
+| Project | What it does |
+|---|---|
+| [AIY Voice Kit](https://iliya-radulov.github.io/projects/recent/aiy-voice-kit/aiy-voice-kit-final-report.html) | 2017 Google kit, archived repo, revived — cloud speech recognition working end to end |
+| [AIY Vision Kit](https://iliya-radulov.github.io/projects/recent/aiy-vision-kit/aiy-vision-kit-final-report.html) | Same era kit — local face/joy/object detection running on-device, no cloud dependency |
+| [SO-ARM101 + Pi 4](https://iliya-radulov.github.io/projects/active/pi4-lerobot-setup-log/pi4-lerobot-setup-log.html) | Leader/follower arm, calibrated and teleoperating at 60Hz, camera integration confirmed |
+| [Project Roadmap](https://iliya-radulov.github.io/projects/active/voice-vision-arm-roadmap/voice-vision-arm-roadmap.html) | The staged plan tying Voice, Vision, and the arm together |
+
+
 ## 📊 Now: data engineering & analytics (the transition period)
 
 Real, current, shipped work — see the [portfolio](https://iliya-radulov.github.io/) for details:
