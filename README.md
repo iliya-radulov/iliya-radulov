@@ -114,10 +114,12 @@ Real, current, shipped work — see the [portfolio](https://iliya-radulov.github
 
 | Project | What it does |
 |---|---|
-| [GoExplore Data Stack](https://iliya-radulov.github.io/projects/metabase/goexplore-data-stack.html) | Local analytics stack replacing Google Sheets & BigQuery — GDPR-compliant, vendor-free |
-| [KNIME → BigQuery](https://iliya-radulov.github.io/projects/KNIME/knime-bigquery-portfolio.html) | Visual analytics pipeline over GCP, JDBC, live SQL |
-| [Sales Prediction (Random Forest)](https://iliya-radulov.github.io/projects/KNIME/knime-ml-portfolio.html) | Regression pipeline on live BigQuery data |
-| [Market Revenue Prediction](https://iliya-radulov.github.io/projects/market_prediction/market-revenue-prediction.html) | Econometric analysis, OLS with HAC-corrected errors |
+| [Liane's Library](https://iliya-radulov.github.io/projects/active/lianes-library/lianes-library.html) |An open-ended course assignment — design a library database, howeveryou see fit.|
+| [GoExplore Project Wrapup](https://iliya-radulov.github.io/projects/recent/goexplore-project-wrapup/goexplore-project-wrapup.html) |  From a Two-Week Brief<br>to Four <em>Deep Dives |
+| [GoExplore Data Stack](https://iliya-radulov.github.io/projects/recent/goexplore-data-stack/goexplore-data-stack.html) | Local analytics stack replacing Google Sheets & BigQuery — GDPR-compliant, vendor-free |
+| [KNIME → BigQuery](https://iliya-radulov.github.io/projects/recent/knime-bigquery-portfoli/knime-bigquery-portfolio.html) | Visual analytics pipeline over GCP, JDBC, live SQL |
+| [Sales Prediction (Random Forest)](https://iliya-radulov.github.io/projects/recent/knime-ml-portfolio/knime-ml-portfolio.html) | Regression pipeline on live BigQuery data |
+| [Market Revenue Prediction](https://iliya-radulov.github.io/projects/recent/market-revenue-prediction/market-revenue-prediction.html) | Econometric analysis, OLS with HAC-corrected errors |
 
 **Toolbox:** Linux · Python · SQL · KNIME · Docker · Git · LaTeX
 
