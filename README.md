@@ -4,7 +4,7 @@
 
 # Iliya Angelov Radulov
 
-### Materials physicist, currently learning to automate his own old job.
+### Materials physicist, who taught a robot arm to do the parts of his old job he never had time for.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-iliya--radulov.github.io-orange)](https://iliya-radulov.github.io/)
 
@@ -34,27 +34,27 @@ Some context for why "learning to code" at this stage of a career is a feature, 
 - **With my kids, over the years:** a lot of joyfully unserious builds with Makeblock, littleBits, BBC micro:bit, Meccano
 - **Now:** Python & data science, aimed at finally getting the bigger idea working
 
-The throughline hasn't changed in 40 years: learn whatever tool is available, use it to automate the last experiment. Currently working on the next one.
+The throughline hasn't changed in 40 years: learn whatever tool is available, use it to automate the last experiment. Currently working on the next one — and this time, it's actually moving.
 
-## 🧰 The workshop: hardware waiting for a brain
+## 🧰 The workshop: from waiting to working
 
-Not just talk — some of the actual starting material is already sitting here:
+This shelf used to be "hardware waiting for a brain." As of 2026, some of it finally isn't.
 
 <table>
 <tr>
 <td width="50%">
 <img src="assets/aiy-vision-kit.jpg" width="100%"/>
-<br><sub><b>Google AIY Voice Kit & Vision Kit</b> — bought a while ago, built, mostly unused since. Cardboard cases around a Pi Zero, a mic array, and a camera. Originally an impulse buy; now the obvious starting point for Arduino/Raspberry-Pi + ML projects.</sub>
+<br><sub><b>Google AIY Voice Kit & Vision Kit</b> — bought in 2017, finally assembled nine years later. Cloud speech recognition and on-device face/joy/object detection both confirmed working end to end.</sub>
 </td>
 <td width="50%">
 <img src="assets/aiy-kits-unboxed.jpg" width="100%"/>
-<br><sub>Both kits unboxed — Pi Zero W, camera module, the works. Still in good shape, just waiting for a project.</sub>
+<br><sub>Both kits unboxed — Pi Zero W, camera module, the works. No longer waiting for a project; they're running two.</sub>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <img src="assets/lerobot-so-arm101-parts.jpg" width="100%"/>
-<br><sub><b><a href="https://www.youtube.com/watch?v=70GuJf2jbYk">LeRobot SO-ARM101</a></b> — recently bought, currently living in a parts bin. This is the actual physical target for closing the loop between ML and manipulation.</sub>
+<br><sub><b><a href="https://www.youtube.com/watch?v=70GuJf2jbYk">LeRobot SO-ARM101</a></b> — no longer a parts bin. Assembled, calibrated, and now performing <b>fully autonomous pick-and-place</b> via a trained imitation-learning policy. The actual physical target, achieved rather than just aimed at.</sub>
 </td>
 <td width="50%">
 <img src="assets/meccano-meccanoid.jpg" width="100%"/>
@@ -64,7 +64,7 @@ Not just talk — some of the actual starting material is already sitting here:
 <tr>
 <td width="50%">
 <img src="assets/arduino-robotics-bench.jpg" width="100%"/>
-<br><sub>Small Arduino-based builds from over the years — a rolling robot base, a ball-balancing mechanism, a windmill drive. Nothing that shipped, but the itch was always there.</sub>
+<br><sub>Small Arduino-based builds from over the years — a rolling robot base, a ball-balancing mechanism, a windmill drive. The itch that eventually led here.</sub>
 </td>
 <td width="50%">
 <img src="assets/tesla-coil.jpg" width="100%"/>
@@ -85,7 +85,7 @@ Not just talk — some of the actual starting material is already sitting here:
 
 <p align="center">
 <img src="assets/workbench-selfie.jpg" width="45%"/>
-<br><sub>The actual workbench. CNC frame in the foreground, decades of accumulated projects on the shelves behind.</sub>
+<br><sub>The actual workbench. CNC frame in the foreground, decades of accumulated projects on the shelves behind — now joined by a 3D printer, currently learning Fusion 360.</sub>
 </p>
 
 ## 🔬 Then: the physics
@@ -97,16 +97,18 @@ Not just talk — some of the actual starting material is already sitting here:
 - **Senior Researcher** — Fraunhofer IWKS, functional materials R&D
 - Research areas: magnetocaloric materials, magnetic/multiferroic oxides, structure–property relationships, lab-to-pilot-scale upscaling
 
+**📄 Recent publication:** Mao, K., Yang, X., **Radulov, I. A.**, Boroojerdi, M., Li, W., Yu, Z., Riedel, R. — *"Tungsten Content-Dependent Phase Constitution, Microstructure, and Mechanical Properties of Polymer-Derived SiWC Ceramics"* — [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0955221926006515). Traditional synthesis route (polymer-derived ceramics + spark plasma sintering), not yet the ML-driven loop below — that part's still a goal, not a result.
 
-## 🛠️ Now: reviving old kits, teaching a new arm
+## 🦾 Now: reviving old kits, teaching a new arm
 
 | Project | What it does |
 |---|---|
 | [AIY Voice Kit](https://iliya-radulov.github.io/projects/recent/aiy-voice-kit/aiy-voice-kit-final-report.html) | 2017 Google kit, archived repo, revived — cloud speech recognition working end to end |
 | [AIY Vision Kit](https://iliya-radulov.github.io/projects/recent/aiy-vision-kit/aiy-vision-kit-final-report.html) | Same era kit — local face/joy/object detection running on-device, no cloud dependency |
-| [SO-ARM101 + Pi 4](https://iliya-radulov.github.io/projects/active/pi4-lerobot-setup-log/pi4-lerobot-setup-log.html) | Leader/follower arm, calibrated and teleoperating at 60Hz, camera integration confirmed |
-| [Project Roadmap](https://iliya-radulov.github.io/projects/active/voice-vision-arm-roadmap/voice-vision-arm-roadmap.html) | The staged plan tying Voice, Vision, and the arm together |
-
+| [Robot Arm — Autonomous Pick-and-Place](https://iliya-radulov.github.io/projects/active/robot-arm-pickplace/robot-arm-pickplace.html) | Leader/follower SO-ARM101, calibrated, teleoperating at 60Hz — then trained to grasp, lift, and place **fully autonomously**, no human in the loop |
+| [Mobility Expansion (LeKiwi)](https://iliya-radulov.github.io/projects/active/voice-vision-arm-roadmap/voice-vision-arm-roadmap.html) | Wheeled base, in progress — both arms assembled and functional, base kit incoming |
+| [Voice→Brain Trigger Loop](https://iliya-radulov.github.io/projects/active/voice-brain-trigger-loop/session-wrapup-voice-brain-trigger-loop.html) | Spoken trigger phrase → networked request → spoken reply, fully local/offline, no cloud anywhere in the chain |
+| [Project Roadmap](https://iliya-radulov.github.io/projects/active/voice-vision-arm-roadmap/voice-vision-arm-roadmap.html) | The staged plan tying Voice, Vision, and the arm together — the living version of this table |
 
 ## 📊 Now: data engineering & analytics (the transition period)
 
@@ -114,20 +116,24 @@ Real, current, shipped work — see the [portfolio](https://iliya-radulov.github
 
 | Project | What it does |
 |---|---|
-| [Liane's Library](https://iliya-radulov.github.io/projects/active/lianes-library/lianes-library.html) |An open-ended course assignment — design a library database, howeveryou see fit.|
-| [GoExplore Project Wrapup](https://iliya-radulov.github.io/projects/recent/goexplore-project-wrapup/goexplore-project-wrapup.html) |  From a Two-Week Brief<br>to Four <em>Deep Dives |
+| [Liane's Library](https://iliya-radulov.github.io/projects/active/lianes-library/lianes-library.html) | An open-ended course assignment — design a library database, however you see fit |
+| [GoExplore Project Wrapup](https://iliya-radulov.github.io/projects/recent/goexplore-project-wrapup/goexplore-project-wrapup.html) | From a two-week brief to four deep dives |
 | [GoExplore Data Stack](https://iliya-radulov.github.io/projects/recent/goexplore-data-stack/goexplore-data-stack.html) | Local analytics stack replacing Google Sheets & BigQuery — GDPR-compliant, vendor-free |
 | [KNIME → BigQuery](https://iliya-radulov.github.io/projects/recent/knime-bigquery-portfolio/knime-bigquery-portfolio.html) | Visual analytics pipeline over GCP, JDBC, live SQL |
 | [Sales Prediction (Random Forest)](https://iliya-radulov.github.io/projects/recent/knime-ml-portfolio/knime-ml-portfolio.html) | Regression pipeline on live BigQuery data |
 | [Market Revenue Prediction](https://iliya-radulov.github.io/projects/recent/market-revenue-prediction/market-revenue-prediction.html) | Econometric analysis, OLS with HAC-corrected errors |
 
-**Toolbox:** Linux · Python · SQL · KNIME · Docker · Git · LaTeX
+**Toolbox:** Linux · Python · SQL · KNIME · Docker · Git · LaTeX · LeRobot/PyTorch · Ollama
 
 This is training, not the destination — the aim is to bring modern data science and AI into physics workflows, not to run analytics dashboards forever.
 
+## 🧵 Also: Fragments
+
+A small, separate corner of the portfolio for shorter, less structured pieces — including a genuinely useful accidental finding: six local RAG systems (five authors, one TRIZ methodology control), all asked the same off-domain question, all producing confident, well-formatted citations that turned out to be a mix of correct, wrong, and outright invented — with no difference in tone between them. Worth a look if "how do I know an AI answer is actually grounded" is a question you care about: [Fragments](https://iliya-radulov.github.io/#fragments).
+
 ## 🎯 Where this is going
 
-The actual goal — stated plainly as a goal, not a shipped product:
+The actual goal — stated plainly as a goal, still mostly not a shipped product:
 
 - ML-assisted prediction of materials synthesis routes
 - Automated / assisted characterization (starting where I already know the physics)
@@ -137,10 +143,10 @@ The actual goal — stated plainly as a goal, not a shipped product:
 |---|---|
 | Synthesis planned by hand, from experience | ML-assisted synthesis prediction |
 | Phase identification by eye | Assisted / automated pattern recognition |
-| Arduino tinkering with the kids | Real experiment automation |
+| **Robot arm: autonomous pick-and-place, proven** | Extend the same closed loop to real lab tasks, not just a toy object |
 | Sticky notes and pipettes | Closed-loop, data-driven lab workflow |
 
-No robotic arm yet. No papers on it yet. Just a clear direction and a person who has spent 40 years learning whatever tool was available at the time.
+A robotic arm now exists, works, and grasps things on its own — that part of the sentence changed. Applying that same closed loop to actual materials synthesis hasn't happened yet, and neither has a paper on it. Still a clear direction, and still a person who's spent 40 years learning whatever tool was available at the time.
 
 ## 📫 Reach me:
 
