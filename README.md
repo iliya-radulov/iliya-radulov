@@ -1,155 +1,79 @@
-<div align="center">
-
-<img src="assets/my_lab.jpg" width="100%" style="border-radius:50%"/>
-
 # Iliya Angelov Radulov
 
-### Materials physicist, who taught a robot arm to do the parts of his old job he never had time for.
+**Materials physicist, currently learning to automate his own old job.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-iliya--radulov.github.io-orange)](https://iliya-radulov.github.io/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iliyaradulov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliyaradulov/)
 [![Codeberg](https://img.shields.io/badge/Codeberg-iliya--radulov-blue?logo=codeberg)](https://codeberg.org/iliya-radulov)
-
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8943--5083-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8943-5083)
-[![Scopus](https://img.shields.io/badge/Scopus-56022860600-E9711C)](https://www.scopus.com/authid/detail.uri?authorId=56022860600)
-</div>
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=iBSuLZwAAAAJ&hl=en)
+[![Zenodo](https://img.shields.io/badge/Zenodo-publications-1682D4?logo=zenodo&logoColor=white)](https://zenodo.org/search?q=creators.orcid%3A%220000-0001-8943-5083%22)
+
+**Status:** updated 24 October 2026. Six preprints are published on Zenodo; the DOIs below are the permanent references.
 
 ---
 
-## 👋 About
+## What this is, in plain language
 
-25+ years in physics and materials science — synthesis, characterization, and experimental automation, mostly done the long way, by hand. Since 2026 I've been consulting and deliberately re-training in Python and data science, not as a career pivot, but as tool acquisition for the actual goal: closing the loop between materials prediction, synthesis, and characterization.
+I have spent 25+ years in physics and materials science: synthesis, characterization and experimental automation, mostly done by hand. Since 2026 I have been retraining in Python, data science and robotics. These are tools for one goal: closing the loop between materials prediction, synthesis and characterization.
 
-Based in Bad König, Germany.
+Two tracks run in parallel:
 
-## 🕰️ A (very) brief tech timeline
+- **Alloy lab database.** Open-source data infrastructure for alloy synthesis research: a relational database, composition screening, literature cross-checks, and validated pipelines for XRD, VSM and SEM data. Stages 1 and 2 are published; Stage 3 (retrieval-augmented literature advice and CALPHAD screening) is in preparation.
+- **Robot learning lab.** A self-built SO-101 arm trained with imitation learning (ACT), with its failures measured and written up rather than hidden.
 
-Some context for why "learning to code" at this stage of a career is a feature, not a late start:
+Both tracks are infrastructure. Connecting them to real materials synthesis has not been done yet, and I try to say so plainly.
 
-- **School:** Fortran 77, on a Pravetz 386 — 2 MB RAM, 5.25″ floppy disks
-- **Until 1999:** Windows 3.11 — then switched to Ubuntu, and never really looked back (still keep half an eye on Windows/macOS out of professional necessity — currently also conscripted into Mac life)
-- **University:** Fortran gave way to Delphi, then LabVIEW for experiment automation
-- **Along the way:** small Arduino projects, none of them big
-- **With my kids, over the years:** a lot of joyfully unserious builds with Makeblock, littleBits, BBC micro:bit, Meccano
-- **Now:** Python & data science, aimed at finally getting the bigger idea working
+## Publications
 
-The throughline hasn't changed in 40 years: learn whatever tool is available, use it to automate the last experiment. Currently working on the next one — and this time, it's actually moving.
+All papers are on Zenodo. The full list, with PDFs, is on the [Manuscripts page](https://iliya-radulov.github.io/manuscripts/manuscripts.html).
 
-## 🧰 The workshop: from waiting to working
+| Paper | Topic | DOI |
+|---|---|---|
+| Field Notes from a Low-Cost Robot Learning Lab: Hardware Churn, Software Whiplash, and What Actually Went Wrong | Robotics | [10.5281/zenodo.23259697](https://doi.org/10.5281/zenodo.23259697) |
+| Distribution Mismatch, Lighting, and Background Generalization in a Low-Cost Imitation-Learning Pick-and-Place Policy | Robotics | [10.5281/zenodo.23212209](https://doi.org/10.5281/zenodo.23212209) |
+| When Does a Trigger Reach a Robot Policy? Architecture, Fine-Tuning, and a Correctly Targeted Visual Backdoor | Robotics | [10.5281/zenodo.23143960](https://doi.org/10.5281/zenodo.23143960) |
+| Alloy Database, Stage 2: Validated Multi-Instrument Characterization Pipelines | Alloy database | [10.5281/zenodo.23499416](https://doi.org/10.5281/zenodo.23499416) |
+| Alloy Database, Stage 1: Composition Screening and Literature Cross-Referencing | Alloy database | [10.5281/zenodo.23156552](https://doi.org/10.5281/zenodo.23156552) |
+| Eight Years Dead, One Week to Bring Back: Revival of a Makeblock Laser Plotter | Maker | [10.5281/zenodo.23207105](https://doi.org/10.5281/zenodo.23207105) |
 
-This shelf used to be "hardware waiting for a brain." As of 2026, some of it finally isn't.
+## Projects
 
-<table>
-<tr>
-<td width="50%">
-<img src="assets/aiy-vision-kit.jpg" width="100%"/>
-<br><sub><b>Google AIY Voice Kit & Vision Kit</b> — bought in 2017, finally assembled nine years later. Cloud speech recognition and on-device face/joy/object detection both confirmed working end to end.</sub>
-</td>
-<td width="50%">
-<img src="assets/aiy-kits-unboxed.jpg" width="100%"/>
-<br><sub>Both kits unboxed — Pi Zero W, camera module, the works. No longer waiting for a project; they're running two.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="assets/lerobot-so-arm101-parts.jpg" width="100%"/>
-<br><sub><b><a href="https://www.youtube.com/watch?v=70GuJf2jbYk">LeRobot SO-ARM101</a></b> — no longer a parts bin. Assembled, calibrated, and now performing <b>fully autonomous pick-and-place</b> via a trained imitation-learning policy. The actual physical target, achieved rather than just aimed at.</sub>
-</td>
-<td width="50%">
-<img src="assets/meccano-meccanoid.jpg" width="100%"/>
-<br><sub><b>Meccano Meccanoid robots</b>, built together with my kids over the years — mechanically capable, electronically simple, a lot of fun.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="assets/arduino-robotics-bench.jpg" width="100%"/>
-<br><sub>Small Arduino-based builds from over the years — a rolling robot base, a ball-balancing mechanism, a windmill drive. The itch that eventually led here.</sub>
-</td>
-<td width="50%">
-<img src="assets/tesla-coil.jpg" width="100%"/>
-<br><sub>Because sometimes the point of electronics is just watching a spark jump.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="assets/electronics-bench.jpg" width="100%"/>
-<br><sub>The usual state of the desk mid-project: boards, bags of components, a soldering iron never far away.</sub>
-</td>
-<td width="50%">
-<img src="assets/breadboard-leds.jpg" width="100%"/>
-<br><sub>Breadboard basics — still where every new idea gets tested first.</sub>
-</td>
-</tr>
-</table>
+- [**Current projects**](https://iliya-radulov.github.io/projects/active/active.html): the alloy database, the SO-101 arm and its roadmap, data poisoning on a robot arm.
+- [**Recent projects**](https://iliya-radulov.github.io/projects/recent/recent.html): the AIY Voice and Vision kits, Azure vs. open-source pipelines, Liane's Library.
+- [**Former projects**](https://iliya-radulov.github.io/projects/former/former.html): data analytics case studies and years of maker builds.
+- [**Fragments**](https://iliya-radulov.github.io/fragments/active_fragments/active_fragments.html): shorter opinion pieces and ideas.
 
-<p align="center">
-<img src="assets/workbench-selfie.jpg" width="45%"/>
-<br><sub>The actual workbench. CNC frame in the foreground, decades of accumulated projects on the shelves behind — now joined by a 3D printer, currently learning Fusion 360.</sub>
-</p>
+## Code
 
-## 🔬 Then: the physics
+| Repository | What it is | DOI |
+|---|---|---|
+| [my_db_project](https://github.com/iliya-radulov/my_db_project) | The alloy lab database: schema, calculators, characterization pipelines | [10.5281/zenodo.23155920](https://doi.org/10.5281/zenodo.23155920) |
+| [UselessTools](https://github.com/iliya-radulov/UselessTools) | My personal toolbox of small scripts I use all the time: PDF viewer, image tools (Pillow), web scrapers, book analyzer, diagram-to-Mermaid converter, string art | [10.5281/zenodo.23153750](https://doi.org/10.5281/zenodo.23153750) |
+| [lianes_lib_project](https://github.com/iliya-radulov/lianes_lib_project) | A library database in MySQL and Python, grown from a course assignment | none |
 
-- **PhD, Condensed Matter Physics** — Institute of Solid State Physics, Bulgarian Academy of Sciences (magnetic properties of rare earth manganites)
-- **MSc, Radiophysics and Electronics** — Sofia University "St. Kliment Ohridski"
-- **Marie Curie Postdoctoral Fellowship** — IESL-FORTH, strongly correlated electronic systems
-- **Postdoctoral Researcher** — TU Darmstadt, Functional Materials Lab
-- **Senior Researcher** — Fraunhofer IWKS, functional materials R&D
-- Research areas: magnetocaloric materials, magnetic/multiferroic oxides, structure–property relationships, lab-to-pilot-scale upscaling
+## Background
 
-**📄 Recent publication:** Mao, K., Yang, X., **Radulov, I. A.**, Boroojerdi, M., Li, W., Yu, Z., Riedel, R. — *"Tungsten Content-Dependent Phase Constitution, Microstructure, and Mechanical Properties of Polymer-Derived SiWC Ceramics"* — [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0955221926006515). Traditional synthesis route (polymer-derived ceramics + spark plasma sintering), not yet the ML-driven loop below — that part's still a goal, not a result.
+- **Data Science and AI, WBS Coding School (Berlin), 2026–March 2027:** one-year intensive course, including a two-month practical internship. Some of my projects here come from the course, others are private.
+- **PhD, Condensed Matter Physics:** Institute of Solid State Physics, Bulgarian Academy of Sciences (magnetic properties of rare-earth manganites)
+- **MSc, Radiophysics and Electronics:** Sofia University "St. Kliment Ohridski"
+- **Marie Curie Postdoctoral Fellowship:** IESL-FORTH, strongly correlated electronic systems
+- **Postdoctoral Researcher:** TU Darmstadt, Functional Materials Lab
+- **Senior Researcher:** Fraunhofer IWKS, functional materials R&D
+- Research areas: magnetocaloric materials, magnetic and multiferroic oxides, structure–property relationships, lab-to-pilot-scale upscaling
 
-## 🦾 Now: reviving old kits, teaching a new arm
+**Toolbox:** Linux · Python · SQL · PostgreSQL · Docker · Git · LaTeX · LeRobot
 
-| Project | What it does |
-|---|---|
-| [AIY Voice Kit](https://iliya-radulov.github.io/projects/recent/aiy-voice-kit/aiy-voice-kit-final-report.html) | 2017 Google kit, archived repo, revived — cloud speech recognition working end to end |
-| [AIY Vision Kit](https://iliya-radulov.github.io/projects/recent/aiy-vision-kit/aiy-vision-kit-final-report.html) | Same era kit — local face/joy/object detection running on-device, no cloud dependency |
-| [Robot Arm — Autonomous Pick-and-Place](https://iliya-radulov.github.io/projects/active/robot-arm-pickplace/robot-arm-pickplace.html) | Leader/follower SO-ARM101, calibrated, teleoperating at 60Hz — then trained to grasp, lift, and place **fully autonomously**, no human in the loop |
-| [Mobility Expansion (LeKiwi)](https://iliya-radulov.github.io/projects/active/voice-vision-arm-roadmap/voice-vision-arm-roadmap.html) | Wheeled base, in progress — both arms assembled and functional, base kit incoming |
-| [Voice→Brain Trigger Loop](https://iliya-radulov.github.io/projects/active/voice-brain-trigger-loop/session-wrapup-voice-brain-trigger-loop.html) | Spoken trigger phrase → networked request → spoken reply, fully local/offline, no cloud anywhere in the chain |
-| [Project Roadmap](https://iliya-radulov.github.io/projects/active/voice-vision-arm-roadmap/voice-vision-arm-roadmap.html) | The staged plan tying Voice, Vision, and the arm together — the living version of this table |
-
-## 📊 Now: data engineering & analytics (the transition period)
-
-Real, current, shipped work — see the [portfolio](https://iliya-radulov.github.io/) for details:
-
-| Project | What it does |
-|---|---|
-| [Liane's Library](https://iliya-radulov.github.io/projects/active/lianes-library/lianes-library.html) | An open-ended course assignment — design a library database, however you see fit |
-| [GoExplore Project Wrapup](https://iliya-radulov.github.io/projects/recent/goexplore-project-wrapup/goexplore-project-wrapup.html) | From a two-week brief to four deep dives |
-| [GoExplore Data Stack](https://iliya-radulov.github.io/projects/recent/goexplore-data-stack/goexplore-data-stack.html) | Local analytics stack replacing Google Sheets & BigQuery — GDPR-compliant, vendor-free |
-| [KNIME → BigQuery](https://iliya-radulov.github.io/projects/recent/knime-bigquery-portfolio/knime-bigquery-portfolio.html) | Visual analytics pipeline over GCP, JDBC, live SQL |
-| [Sales Prediction (Random Forest)](https://iliya-radulov.github.io/projects/recent/knime-ml-portfolio/knime-ml-portfolio.html) | Regression pipeline on live BigQuery data |
-| [Market Revenue Prediction](https://iliya-radulov.github.io/projects/recent/market-revenue-prediction/market-revenue-prediction.html) | Econometric analysis, OLS with HAC-corrected errors |
-
-**Toolbox:** Linux · Python · SQL · KNIME · Docker · Git · LaTeX · LeRobot/PyTorch · Ollama
-
-This is training, not the destination — the aim is to bring modern data science and AI into physics workflows, not to run analytics dashboards forever.
-
-## 🧵 Also: Fragments
-
-A small, separate corner of the portfolio for shorter, less structured pieces — including a genuinely useful accidental finding: six local RAG systems (five authors, one TRIZ methodology control), all asked the same off-domain question, all producing confident, well-formatted citations that turned out to be a mix of correct, wrong, and outright invented — with no difference in tone between them. Worth a look if "how do I know an AI answer is actually grounded" is a question you care about: [Fragments](https://iliya-radulov.github.io/#fragments).
-
-## 🎯 Where this is going
-
-The actual goal — stated plainly as a goal, still mostly not a shipped product:
+## Where this is going
 
 - ML-assisted prediction of materials synthesis routes
-- Automated / assisted characterization (starting where I already know the physics)
-- Eventually, a closed loop between prediction, synthesis, and characterization
+- Assisted and automated characterization, starting where I already know the physics
+- Eventually, a closed loop between prediction, synthesis and characterization
 
-| Current state | Target |
-|---|---|
-| Synthesis planned by hand, from experience | ML-assisted synthesis prediction |
-| Phase identification by eye | Assisted / automated pattern recognition |
-| **Robot arm: autonomous pick-and-place, proven** | Extend the same closed loop to real lab tasks, not just a toy object |
-| Sticky notes and pipettes | Closed-loop, data-driven lab workflow |
+The arm now does autonomous pick-and-place in my lab, and the database has validated characterization pipelines. Neither has yet been applied to a real materials synthesis problem. That is the next step.
 
-A robotic arm now exists, works, and grasps things on its own — that part of the sentence changed. Applying that same closed loop to actual materials synthesis hasn't happened yet, and neither has a paper on it. Still a clear direction, and still a person who's spent 40 years learning whatever tool was available at the time.
+## Contact
 
-## 📫 Reach me:
+[Portfolio](https://iliya-radulov.github.io/) · [LinkedIn](https://www.linkedin.com/in/iliyaradulov/) · [Codeberg](https://codeberg.org/iliya-radulov) · [ORCID](https://orcid.org/0000-0001-8943-5083) · [Google Scholar](https://scholar.google.com/citations?user=iBSuLZwAAAAJ&hl=en) · [Zenodo](https://zenodo.org/search?q=creators.orcid%3A%220000-0001-8943-5083%22) · iliyaradulov@gmail.com
 
-[Portfolio](https://iliya-radulov.github.io/) · [GitHub](https://github.com/iliya-radulov/) · [Codeberg](https://codeberg.org/iliya-radulov) · [LinkedIn](https://www.linkedin.com/in/iliyaradulov/) · [ORCID](https://orcid.org/0000-0001-8943-5083) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56022860600) · 
-
-📫 email: iliyaradulov@gmail.com
+Based in Bad König, Germany.
